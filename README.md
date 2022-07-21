@@ -1,4 +1,5 @@
-# test-vue
+# Vue Starter
+Boilerplate vue.js (Vue 2)
 
 ## Project setup
 ```
